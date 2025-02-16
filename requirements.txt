@@ -4,4 +4,5 @@ xgboost
 pandas
 numpy
 seaborn
--e .
+dill
+#-e .
